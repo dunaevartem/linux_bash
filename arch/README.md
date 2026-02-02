@@ -18,7 +18,7 @@ __Меню__
 * 3 – Выход. Программа завершает работу.
 
 __Как запустить__
-Скачайте скрипт
+Скачайте скрипт ```git clone https://github.com/dunaevartem/linux_bash.git```
 
 # Сделайте его исполняемым
 chmod +x auto_archive.sh
